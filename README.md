@@ -1,2 +1,2 @@
-# xuxu
-An brilliant app for searching toilets nearby .
+# PeePee
+A fabulous app for searching toilets nearby .
